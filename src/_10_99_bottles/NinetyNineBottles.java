@@ -8,7 +8,7 @@ public class NinetyNineBottles {
 			bottlesOfBeer -=1;
 			System.out.println("You take one down, pass it around, " + bottlesOfBeer + " bottles of beer on the wall.");
 		}
-		System.out.println("No more bottles of beer on the wall, no more bottles of beer. \r\n" + 
+		System.out.println("No more bottles of beer on the wall, no more bottles of beer.\n" + 
 				"Go to the store and buy some more, 99 bottles of beer on the wall.");
 	}
 }
